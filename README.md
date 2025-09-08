@@ -6,7 +6,7 @@ I am a motivated professional with a background in logistics, leveraging data to
 
 ## **Projects**
 
-Here are some of my key data analysis projects:
+
 
 
 
@@ -14,6 +14,7 @@ Here are some of my key data analysis projects:
 *An interactive Power BI dashboard that analyzes global music revenue from the Chinook database to identify top-performing genres and regions.*
 * **Skills:** SQL, Power BI
 * **View Project:** [github.com/soupbadger/chinook-powerbi-project](https://github.com/soupbadger/chinook-powerbi-project)
+
 
 
 #### **Neighborhood Property Value Tracker**
