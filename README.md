@@ -4,11 +4,11 @@ I am a motivated professional with a background in logistics, leveraging data to
 
 ---
 
-### **Projects**
+## **Projects**
 
 Here are some of my key data analysis projects:
 
----
+
 
 #### **Chinook Music Revenue Dashboard**
 *An interactive Power BI dashboard that analyzes global music revenue from the Chinook database to identify top-performing genres and regions.*
