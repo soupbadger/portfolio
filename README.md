@@ -1,13 +1,11 @@
 # Nathan Moore | Coding and Analysis Portfolio
 
-I am a motivated professional with a background in logistics, leveraging data to solve business problems. I am attempting to transition into an analysis position. This repository serves as a central hub for my data analysis projects, showcasing my skills in **Excel**, **Python**, **SQL**, and **Power BI**.
+I am a motivated professional with a background in logistics, leveraging data to solve business problems. I am attempting to transition into an analysis position. This repository serves as a central hub for my various projects, showcasing my skills in **Excel**, **Python**, **SQL**, and **Power BI**.
 
 ---
 
-## **Projects**
 
-
-### Data Analysis
+## Data Analysis
 
 --- 
 
@@ -31,7 +29,7 @@ I am a motivated professional with a background in logistics, leveraging data to
 
 ---
 
-### Coding/Misc
+## Coding/Misc
 
 --- 
 
