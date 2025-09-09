@@ -6,7 +6,6 @@ I am a motivated professional with a background in logistics, leveraging data to
 
 ## **Projects**
 
----
 
 ### Data Analysis
 
