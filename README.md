@@ -1,4 +1,4 @@
-# Nathan Moore | Data Analysis Portfolio
+# Nathan Moore | Coding and Analysis Portfolio
 
 I am a motivated professional with a background in logistics, leveraging data to solve business problems. I am attempting to transition into an analysis position. This repository serves as a central hub for my data analysis projects, showcasing my skills in **Excel**, **Python**, **SQL**, and **Power BI**.
 
@@ -6,8 +6,11 @@ I am a motivated professional with a background in logistics, leveraging data to
 
 ## **Projects**
 
+---
 
+### Data Analysis
 
+--- 
 
 
 
@@ -27,11 +30,14 @@ I am a motivated professional with a background in logistics, leveraging data to
 * **Skills:** Excel, Python, VBA
 * **View Project:** [github.com/soupbadger/syrup-excel-roi](https://github.com/soupbadger/syrup-excel-roi)
 
+---
+
+### Coding/Misc
+
+--- 
 
 
-
-
-#### **Real-Time ISS Tracker*
+#### **Real-Time ISS Tracker**
 *A Python-based application that tracks the International Space Station (ISS) in real-time on a world map visualization. Displays the ISS position with coordinates and identifies the closest city as it orbits Earth.*
 Skills: Python, Pygame, REST APIs (ISS location & geocoding)
 * **View Project:** [github.com/soupbadger/rpi-space](https://github.com/soupbadger/rpi-space)
