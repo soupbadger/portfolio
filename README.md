@@ -28,6 +28,15 @@ I am a motivated professional with a background in logistics, leveraging data to
 * **View Project:** [github.com/soupbadger/syrup-excel-roi](https://github.com/soupbadger/syrup-excel-roi)
 
 
+
+
+
+#### **Real-Time ISS Tracker*
+*A Python-based application that tracks the International Space Station (ISS) in real-time on a world map visualization. Displays the ISS position with coordinates and identifies the closest city as it orbits Earth.*
+Skills: Python, Pygame, REST APIs (ISS location & geocoding)
+* **View Project:** [github.com/soupbadger/rpi-space](https://github.com/soupbadger/rpi-space)
+
+
 ---
 
 ### **Skills**
