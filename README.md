@@ -23,7 +23,7 @@ I am a motivated professional with a background in logistics, leveraging data to
 
 #### **Neighborhood Property Value Tracker**
 *An Excel and Python project that tracks and visualizes property values and potential ROI in a fictional neighborhood, demonstrating dynamic linking and web scraping.*
-* **Skills:** Python, Excel, VBA
+* **Skills:** Python, Web Scraping, Excel, VBA
 * **View Project:** [github.com/soupbadger/syrup-excel-roi](https://github.com/soupbadger/syrup-excel-roi)
 
 
@@ -33,7 +33,7 @@ I am a motivated professional with a background in logistics, leveraging data to
 
 #### **Discogs Profit Calculation**
 *An Excel and Python project that scrapes a personal Discogs collection and fetches marketplace stats to calculate the lowest potential profit for each release, saving the results in a structured Excel table for easy analysis.*
-* **Skills:** Python, Excel, Web Scraping, Excel Automation
+* **Skills:** Python, Web Scraping with APIs, Excel 
 * **View Project:** [github.com/soupbadger/discogs-roi](https://github.com/soupbadger/discogs-roi)
 
 
