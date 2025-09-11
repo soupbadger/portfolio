@@ -23,7 +23,7 @@ I am a motivated professional with a background in logistics, leveraging data to
 
 #### **Neighborhood Property Value Tracker**
 *An Excel and Python project that tracks and visualizes property values and potential ROI in a fictional neighborhood, demonstrating dynamic linking and web scraping.*
-* **Skills:** Excel, Python, VBA
+* **Skills:** Python, Excel, VBA
 * **View Project:** [github.com/soupbadger/syrup-excel-roi](https://github.com/soupbadger/syrup-excel-roi)
 
 
@@ -33,7 +33,7 @@ I am a motivated professional with a background in logistics, leveraging data to
 
 #### **Discogs Profit Calculation**
 *An Excel and Python project that scrapes a personal Discogs collection and fetches marketplace stats to calculate the lowest potential profit for each release, saving the results in a structured Excel table for easy analysis.*
-* **Skills:** Python, Web Scraping, Excel Automation
+* **Skills:** Python, Excel, Web Scraping, Excel Automation
 * **View Project:** [github.com/soupbadger/discogs-roi](https://github.com/soupbadger/discogs-roi)
 
 
@@ -46,7 +46,7 @@ I am a motivated professional with a background in logistics, leveraging data to
 
 #### **Real-Time ISS Tracker**
 *A Python-based application that tracks the International Space Station (ISS) in real-time on a world map visualization. Displays the ISS position with coordinates and identifies the closest city as it orbits Earth.*
-* **Skills:** Python, Pygame, REST APIs (ISS location & geocoding)
+* **Skills:** Python, Pygame, REST APIs
 * **View Project:** [github.com/soupbadger/rpi-space](https://github.com/soupbadger/rpi-space)
 
 
