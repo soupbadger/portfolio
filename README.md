@@ -26,6 +26,21 @@ I am a motivated professional with a background in logistics, leveraging data to
 * **Skills:** Excel, Python, VBA
 * **View Project:** [github.com/soupbadger/syrup-excel-roi](https://github.com/soupbadger/syrup-excel-roi)
 
+
+
+
+
+
+### Discogs-ROI
+
+A Python script that scrapes a personal Discogs collection and fetches marketplace stats to calculate the lowest resale price for each release.  
+Data is saved as an Excel table with structured formatting for easy filtering and analysis.  
+Ideal for collectors tracking potential ROI on vinyl records.  
+
+- **Skills**: Python, Web Scraping, Excel Automation  
+- **View Project**: [github.com/soupbadger/discogs-roi](https://github.com/soupbadger/discogs-roi)  
+
+
 ---
 
 ## Coding/Misc
