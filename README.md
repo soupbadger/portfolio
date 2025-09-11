@@ -59,8 +59,4 @@ I am a motivated professional with a background in logistics, leveraging data to
 * **Data Analysis & Visualization:** Excel, Power BI
 * **Concepts:** Data Cleaning, Exploratory Data Analysis (EDA), Data Validation
 
----
 
-### **Contact**
-
-* **Email:** soupbadger@proton.me
