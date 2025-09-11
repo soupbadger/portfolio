@@ -32,7 +32,7 @@ I am a motivated professional with a background in logistics, leveraging data to
 
 
 #### **Discogs-ROI**
-*A Python project that scrapes a personal Discogs collection and fetches marketplace stats to calculate the lowest resale price for each release, saving the results in a structured Excel table for easy analysis.*
+*A Python project that scrapes a personal Discogs collection and fetches marketplace stats to calculate the lowest potential profit for each release, saving the results in a structured Excel table for easy analysis.*
 * **Skills:** Python, Web Scraping, Excel Automation
 * **View Project:** [github.com/soupbadger/discogs-roi](https://github.com/soupbadger/discogs-roi)
 
